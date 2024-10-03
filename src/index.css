@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ 
+.ingredients li,
+.time li {
+    margin-left: 60px;
+}
+.steps li{
+    margin-left: 50px;
+}
+ 
